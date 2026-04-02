@@ -1,0 +1,6 @@
+*.safetensors
+*.exe
+__pycache__/
+venv/
+node_modules/
+.env
