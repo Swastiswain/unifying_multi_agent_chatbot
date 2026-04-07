@@ -168,19 +168,12 @@ Example section:
 
 ## Contributing
 
-Contributions are welcome! To contribute:
+Contributions :
 
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a pull request.
+This project is being maintained and improved by:
 
-Please follow the existing code style and add tests if applicable.
+- **Swastiswain** – Multi‑agent architecture, core logic, and documentation.
+- **Saswat Rout** – Initiative and original repository setup, agent design, and UI integration.
 
 ## License
 
-This project is licensed under the [Choose a license, e.g., MIT License](LICENSE). See the `LICENSE` file for details.
-```
-
-Copy this entire block and paste it into a file named `README.md` in your repo root, then edit paths, commands, and tech stack to match your actual project.
