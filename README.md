@@ -159,7 +159,7 @@ Please follow the existing code style and add tests if applicable.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
 ## React + Vite
 
