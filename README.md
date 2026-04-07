@@ -1,5 +1,3 @@
-Here’s a clean, ready‑to‑copy version of a professional `README.md` for a **multi‑agent chatbot** project. You can paste this directly into your GitHub repo’s `README.md` and adjust the placeholders (like tech stack, commands, and screenshots) as needed:
-
 ```md
 # Multi-Agent Chatbot
 
@@ -24,7 +22,7 @@ A multi-agent chatbot that coordinates specialized AI agents to answer user quer
 
 ## Project Structure
 
-```
+```bash
 multi-agent-chatbot/
 ├── app/                 # Main application logic
 ├── agents/              # Individual agent definitions and behaviors
@@ -155,7 +153,7 @@ Include screenshots or a demo GIF here to show the interface and workflow.
 
 Example section:
 
-![Chat Interface](docs/screenshot-chat.png)
+![Chat Interface]("D:\multi_agent_chatbot_ui.html")
 
 ## Future Improvements
 
