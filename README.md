@@ -151,8 +151,8 @@ You can extend the chatbot by:
 
 This project is being maintained and improved by:
 
-- **Swastik Rout** – Multi‑agent architecture, core logic, and documentation.
-- **Swastiswain** – Initiative and original repository setup, agent design, and UI integration.
+- **Swastiswain** – Multi‑agent architecture, core logic, and documentation.
+- **SaswatRout05** – Initiative and original repository setup, agent design, and UI integration.
 
 
 Please follow the existing code style and add tests if applicable.
